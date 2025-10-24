@@ -51,7 +51,7 @@ class List:
 
         return
 
-    def delete(self,v):   # delete, recursive
+    def delete(self, v):  # delete, recursive
         if self.isempty():
             return
 
